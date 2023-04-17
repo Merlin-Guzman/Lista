@@ -54,11 +54,80 @@ http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70801
 #EXTINF:-1 tvg-id="Cartoon Network FHD" tvg-logo="https://i.imgur.com/DdFTFKO.png" group-title="INFANTIL ESP", Cartoon Network FHD
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/71485
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS",CARTOON NETWORK 2
+https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS",CARTOON NETWORK 3
+https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Nickelodeon#/media/Archivo:NICK2023.png" group-title="KIDS",Nickelodeon HD
+http://45.190.13.50:8000/play/a03d/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="KIDS",Disney Channel HD
+http://45.190.13.50:8003/play/a03g/index.m3u8
+
 #EXTINF:-1 tvg-id="MX: Disney Junior HD" tvg-logo="noimage.png" group-title="INFANTIL ESP", MX: Disney Junior HD
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/71757
 
-#EXTINF:-1 tvg-id="ADN 40 k" tvg-logo="noimage.png" group-title="MEXICO", ADN 40 k
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59965
+#EXTINF:-1 tvg-id="ONCE NIÑOS" tvg-logo="https://www.lyngsat.com/logo/tv/oo/once-ninas-y-ninos-mx.png" group-title="MEXICO", ONCE NIÑOS
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59132
+
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Paramount HD
+http://45.190.13.50:8003/play/a02u/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Star Channel HD
+http://45.190.13.50:8003/play/a01r/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Atres Series
+http://45.190.13.50:8002/play/a014/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Space HD
+http://45.190.13.50:8003/play/a02v/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",TCM
+http://45.190.13.50:8003/play/a027/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png" group-title="CULTURA",TLC
+http://45.190.13.50:8000/play/a03u/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Play Movie HD
+http://45.190.13.50:8003/play/a046/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",DHE HD
+http://45.190.13.50:8000/play/a01q/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",CINEMAX HD
+http://45.190.13.50:8000/play/a01p/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",CINECANAL HD
+http://45.190.13.50:8003/play/a026/index.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/Logo-rakuten-tv-transparent-PNG.png" group-title="CINE Y SERIES", Rakuten TOP TV
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="CINE Y SERIES", Retro Plus TV
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1RXnVq3IbByHRTOzVpySxror_Kie_6oYAhw&usqp=CAU" group-title="CINE Y SERIES", A3CINE
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="Cine Dinamita" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema_dinamita_mx.png" group-title="MEXICO", Cine Dinamita
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59991
@@ -86,18 +155,6 @@ http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59053
 
 #EXTINF:-1 tvg-id="TVE" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tve_internacional_eu.png" group-title="MEXICO", TVE
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59054
-
-#EXTINF:-1 tvg-id="HBO 2 MX" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo2_pl.png" group-title="MEXICO", HBO 2 MX
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59064
-
-#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png" group-title="MEXICO", HBO SIGNATURE
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59065
-
-#EXTINF:-1 tvg-id="HBO LATINOAMERICA" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_latinoamerica.png" group-title="MEXICO", HBO LATINOAMERICA
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59066
-
-#EXTINF:-1 tvg-id="HBO FAMILY ESP" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_lam.png" group-title="MEXICO", HBO FAMILY ESP
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59067
 
 #EXTINF:-1 tvg-id="DE PELICULA" tvg-logo="https://www.lyngsat.com/logo/tv/dd/de-pelicula-mx.png" group-title="MEXICO", DE PELICULA
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59078
@@ -135,6 +192,9 @@ http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59097
 #EXTINF:-1 tvg-id="ADN 40" tvg-logo="https://www.lyngsat.com/logo/tv/aa/adn_40_mx.png" group-title="MEXICO", ADN 40
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59098
 
+#EXTINF:-1 tvg-id="ADN40 SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/adn_40_mx.png" group-title="MEXICO", ADN40 SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59153
+
 #EXTINF:-1 tvg-id="AZTECA UNO FHD (MAP)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/azteca-uno-mx.png" group-title="MEXICO", AZTECA UNO FHD (MAP)
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59104
 
@@ -144,14 +204,8 @@ http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59106
 #EXTINF:-1 tvg-id="TRUTV ESP" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tru_tv_us.png" group-title="MEXICO", TRUTV ESP
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59107
 
-#EXTINF:-1 tvg-id="TNT USA" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt_us.png" group-title="MEXICO", TNT USA
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59108
-
 #EXTINF:-1 tvg-id="TBS1 ESP" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp.png" group-title="MEXICO", TBS1 ESP
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59110
-
-#EXTINF:-1 tvg-id="SYFY ESP" tvg-logo="https://www.lyngsat.com/logo/tv/ss/syfy_us_global.png" group-title="MEXICO", SYFY ESP
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59111
 
 #EXTINF:-1 tvg-id="HOLA TV" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hola_tv_es.png" group-title="MEXICO", HOLA TV
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59113
@@ -159,20 +213,399 @@ http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59113
 #EXTINF:-1 tvg-id="GLITZ ESP" tvg-logo="https://www.lyngsat.com/logo/tv/gg/glitz_lam.png" group-title="MEXICO", GLITZ ESP
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59114
 
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="FX Movies" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fxm-us.png" group-title="MEXICO", FX Movies
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59172
+
+#EXTINF:-1 tvg-id="FX SD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx_us.png" group-title="MEXICO", FX SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59173
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="CINE Y SERIES",FX
+http://45.190.13.50:8003/play/a01w/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="AXN SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_global.png" group-title="MEXICO", AXN SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59155
+
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_global.png" group-title="MEXICO", AXN
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59120
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="CINE Y SERIES",AXN
+http://45.190.13.50:8003/play/a02r/index.m3u8
+
+
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="CINE Y SERIES",AMC
+http://45.190.13.50:8003/play/a02s/index.m3u8
+
+#EXTINF:-1 tvg-id="AMC FHD TVHOP2" tvg-logo="https://i.imgur.com/jX6jQFl.png" group-title="CANALES HD", AMC FHD TVHOP2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68973
+
+
+
 
 #EXTINF:-1 tvg-id="A&E ESP" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ae_us.png" group-title="MEXICO", A&E ESP
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59122
 
-#EXTINF:-1 tvg-id="Las Estrellas" tvg-logo="https://www.lyngsat.com/logo/tv/ll/las_estrellas_mx.png" group-title="MEXICO", Las Estrellas
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59123
+#EXTINF:-1 tvg-id="A&E SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ae_us.png" group-title="MEXICO", A&E SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59152
+
+#EXTINF:-1 tvg-logo="" group-title="CULTURA",A&E HD
+http://45.190.13.50:8002/play/a01a/index.m3u8
+
+
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-logo="https://www.lyngsat.com/logo/tv/cc/comedy-central-deutschland-us-de.png" group-title="CULTURALES ESP", COMEDY CENTRAL
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59033
+
+#EXTINF:-1 tvg-id="COMEDY CENTRAL HD2" tvg-logo="noimage.png" group-title="MEXICO", COMEDY CENTRAL HD2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70902
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/HGTV_logo.svg/2560px-HGTV_logo.svg.png" group-title="HOGAR Y ESTILO",HGTV
+http://45.190.13.50:8000/play/a039/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.E-Entertainment-Logo.png.48ac164a4fda8a995b93d1917bb2fed2.png" group-title="HOGAR Y ESTILO",E! Entertaiment
+http://45.190.13.50:8002/play/a00v/index.m3u8
+
+#EXTINF:-1 tvg-id="E! Entertaiment US." tvg-logo="https://www.lyngsat.com/logo/tv/ee/e_global_us.png" group-title="ENTERTAIMENT USA", E! Entertaiment US.
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59892
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/--AW1Ecwc3mA/XkCKi0vJyKI/AAAAAAAAv8A/EEsjeBXIHI84UAgvUar2SUVbxJv69E9GACK8BGAsYHg/s0/2020-02-09.png" group-title="NOTICIAS", DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Warner TV SD" tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_tv_us.png" group-title="MEXICO", Warner TV SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59151
+
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Warner HD
+http://45.190.13.50:8003/play/a025/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="SyFy SD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/syfy_us_global.png" group-title="MEXICO", SyFy SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59185
+
+#EXTINF:-1 tvg-id="SYFY ESP" tvg-logo="https://www.lyngsat.com/logo/tv/ss/syfy_us_global.png" group-title="MEXICO", SYFY ESP
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59111
+
+#EXTINF:-1 tvg-id="SYFY CHANNEL FHD TVHOP2" tvg-logo="https://i.imgur.com/nneWFYF.png" group-title="CANALES HD", SYFY CHANNEL FHD TVHOP2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68982
+
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Syfy HD
+http://45.190.13.50:8003/play/a01z/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Golden Premier HD
+http://45.190.13.50:8002/play/a00t/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Golden Premier 2 HD
+http://45.190.13.50:8002/play/a00x/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Golden Plus HD
+http://45.190.13.50:8003/play/a030/index.m3u8
+
+#EXTINF:-1 tvg-id="Golden SD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golden-mx.png" group-title="MEXICO", Golden SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59175
+
+#EXTINF:-1 tvg-id="Golden Edge SD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golden-edge-mx.png" group-title="MEXICO", Golden Edge SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59176
+
+#EXTINF:-1 tvg-id="Golden Plus SD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golden-plus-mx.png" group-title="MEXICO", Golden Plus SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59177
+
+#EXTINF:-1 tvg-id="GOLDEN PREMIER FHD TVHOP2" tvg-logo="https://i.ibb.co/pQ8SBP1/GOLDEN-PREMIERE-FHD.png" group-title="CANALES HD", GOLDEN PREMIER FHD TVHOP2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68978
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Universal Channel SD" tvg-logo="https://www.lyngsat.com/logo/tv/uu/universal-channel-america-latina-us.png" group-title="MEXICO", Universal Channel SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59190
+
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL HD2" tvg-logo="noimage.png" group-title="MEXICO", STUDIO UNIVERSAL HD2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70866
+
+#EXTINF:-1 tvg-id="UNIVERSAL CINEMA FHD" tvg-logo="https://i.ibb.co/pxYNgNH/4ba85485-602b-4eb4-8e64-14f65dfae3c0.jpg" group-title="CANALES HD", UNIVERSAL CINEMA FHD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68974
+
+#EXTINF:-1 tvg-id="UNIVERSAL COMEDIA FHD" tvg-logo="https://i.ibb.co/nRtQqkK/2cb9c86e-95b6-4059-94da-09a451aaf12a.jpg" group-title="CANALES HD", UNIVERSAL COMEDIA FHD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68975
+
+#EXTINF:-1 tvg-id="UNIVERSAL CRIME FHD" tvg-logo="https://i.ibb.co/hRPJK6B/465b2563-da99-4bb3-ab97-db910dfb052a.jpg" group-title="CANALES HD", UNIVERSAL CRIME FHD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68977
+
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Studio Universal HD
+http://45.190.13.50:8003/play/a01y/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Universal
+http://45.190.13.50:8003/play/a02y/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Universal Cinema HD
+http://45.190.13.50:8003/play/a01v/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Universal Comedy HD
+http://45.190.13.50:8003/play/a01s/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Universal Crime HD
+http://45.190.13.50:8003/play/a01u/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Universal Premiere 1 HD
+http://45.190.13.50:8003/play/a01t/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Universal Reality HD
+http://45.190.13.50:8003/play/a02t/index.m3u8
+
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL LATINO TVHOP2" tvg-logo="https://i.ibb.co/6g9TRHS/unnamed.jpg" group-title="CANALES HD", STUDIO UNIVERSAL LATINO TVHOP2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68981
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",TNT HD
+http://45.190.13.50:8003/play/a02w/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",TNT Series HD
+http://45.190.13.50:8003/play/a02x/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT USA" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt_us.png" group-title="MEXICO", TNT USA
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59108
+
+#EXTINF:-1 tvg-id="TNT Series SD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-series-us.png" group-title="MEXICO", TNT Series SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59187
+
+#EXTINF:-1 tvg-id="TNT Series R" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-series-us.png" group-title="CANALES ENCODER  HD", TNT Series R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94225
+
+#EXTINF:-1 tvg-id="TNT USA" tvg-logo="http://www.atvpanel.com/posters/1544080681526.png" group-title="DEPORTES", TNT USA
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/78509
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",HBO HD
+http://45.190.13.50:8003/play/a021/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",HBO 2 HD
+http://45.190.13.50:8003/play/a022/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",HBO Family HD
+http://45.190.13.50:8003/play/a020/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",HBO Plus HD
+http://45.190.13.50:8003/play/a023/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",HBO Pop HD
+http://45.190.13.50:8003/play/a02z/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",HBO Xtreme HD
+http://45.190.13.50:8003/play/a024/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO 2 MX" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo2_pl.png" group-title="MEXICO", HBO 2 MX
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59064
+
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png" group-title="MEXICO", HBO SIGNATURE
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59065
+
+#EXTINF:-1 tvg-id="HBO LATINOAMERICA" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_latinoamerica.png" group-title="MEXICO", HBO LATINOAMERICA
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59066
+
+#EXTINF:-1 tvg-id="HBO FAMILY ESP" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_lam.png" group-title="MEXICO", HBO FAMILY ESP
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59067
 
 #EXTINF:-1 tvg-id="HBO MX" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_latinoamerica.png" group-title="MEXICO", HBO MX
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59131
 
-#EXTINF:-1 tvg-id="ONCE NIÑOS" tvg-logo="https://www.lyngsat.com/logo/tv/oo/once-ninas-y-ninos-mx.png" group-title="MEXICO", ONCE NIÑOS
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59132
+#EXTINF:-1 tvg-id="HBO Family SD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_lam.png" group-title="MEXICO", HBO Family SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59145
+
+#EXTINF:-1 tvg-id="HBO Plus SD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-plus-us.png" group-title="MEXICO", HBO Plus SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59146
+
+#EXTINF:-1 tvg-id="HBO SD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_latinoamerica.png" group-title="MEXICO", HBO SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59147
+
+#EXTINF:-1 tvg-id="MTV HD2" tvg-logo="noimage.png" group-title="MEXICO", MTV HD2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70858
+
+#EXTINF:-1 tvg-id="HBO 2 HD2" tvg-logo="noimage.png" group-title="MEXICO", HBO 2 HD2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70856
+
+#EXTINF:-1 tvg-id="HBO Plus HD2" tvg-logo="noimage.png" group-title="MEXICO", HBO Plus HD2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70855
+
+#EXTINF:-1 tvg-id="HBO Family HD2" tvg-logo="noimage.png" group-title="MEXICO", HBO Family HD2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70854
+
+#EXTINF:-1 tvg-id="HBO MUNDI HD2" tvg-logo="noimage.png" group-title="MEXICO", HBO MUNDI HD2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70897
+
+#EXTINF:-1 tvg-id="HBO Plus R" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-plus-us.png" group-title="CANALES ENCODER  HD", HBO Plus R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94217
+
+#EXTINF:-1 tvg-id="HBO SIGNATURE HD2" tvg-logo="noimage.png" group-title="MEXICO", HBO SIGNATURE HD2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70899
+
+#EXTINF:-1 tvg-id="HBO FAMILY FHD" tvg-logo="https://i.imgur.com/SBHVRcm.png" group-title="CANALES HD", HBO FAMILY FHD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68979
+
+
+
+#EXTINF:-1 tvg-id="Sony Channel SD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-channel-sur-us.png" group-title="MEXICO", Sony Channel SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59183
+
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Sony HD
+http://45.190.13.50:8002/play/a019/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Sony Movies HD
+http://45.190.13.50:8003/play/a02q/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="CULTURA",Discovery Turbo HD
+http://45.190.13.50:8000/play/a037/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CULTURA",Discovery World HD
+http://45.190.13.50:8000/play/a035/index.m3u8
+
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL k" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="CULTURALES ESP", DISCOVERY CHANNEL k
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59021
+
+#EXTINF:-1 tvg-id="Discovery en Espanol" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="CULTURALES ESP", Discovery en Espanol
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/107119
+
+#EXTINF:-1 tvg-id="discovery Español" tvg-logo="noimage.png" group-title="CULTURALES ESP", Discovery Español
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/88054
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Discovery_Family_logo.svg/640px-Discovery_Family_logo.svg.png" group-title="HOGAR Y ESTILO",Discovery Home & Health HD
+http://45.190.13.50:8000/play/a034/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Familia" tvg-logo="https://streamingtvguides.com/img/so/DFAMHD.png" group-title="CULTURALES ESP", Discovery Familia
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/83476
+
+#EXTINF:-1 tvg-id="DISCOVERY WORLD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-world-brasil-us-br.png" group-title="CULTURALES ESP", DISCOVERY WORLD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59039
+
+#EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_turbo_us.png" group-title="CULTURALES ESP", DISCOVERY TURBO
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59040
+
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-science-europe-us.png" group-title="CULTURALES ESP", DISCOVERY SCIENCE
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59042
+
+#EXTINF:-1 tvg-id="DISCOVERY ID" tvg-logo="https://www.lyngsat.com/logo/tv/ii/investigation-discovery-us.png" group-title="CULTURALES ESP", DISCOVERY ID
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59043
+
+#EXTINF:-1 tvg-id="DISCOVERY HOME & HEALTH" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-home-and-health-us.png" group-title="CULTURALES ESP", DISCOVERY HOME & HEALTH
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59044
+
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL mx k" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="CULTURALES ESP", DISCOVERY CHANNEL mx k
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59046
+
+#EXTINF:-1 tvg-id="Discovery Sciencen MX R" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-science-latinoamerica-us.png" group-title="CANALES ENCODER  HD", Discovery Sciencen MX R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94238
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="CULTURA",History HD
+http://45.190.13.50:8003/play/a029/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CULTURA",History H2
+http://45.190.13.50:8000/play/a031/index.m3u8
+
+#EXTINF:-1 tvg-id="History SD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png" group-title="MEXICO", History SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59178
+
+#EXTINF:-1 tvg-id="History 2 HD2" tvg-logo="noimage.png" group-title="CULTURALES ESP", History 2 HD2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70909
+
+#EXTINF:-1 tvg-id="History En Español" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_en_espanol_us.png" group-title="CULTURALES ESP", History En Español
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/107118
+
+#EXTINF:-1 tvg-id="Historia K" tvg-logo="https://www.lyngsat.com/logo/tv/hh/historia_ca.png" group-title="CULTURALES ESP", Historia K
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59020
+
+#EXTINF:-1 tvg-id="History" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png" group-title="CULTURALES ESP", History
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59037
+
+#EXTINF:-1 tvg-id="History 2" tvg-logo="https://www.lyngsat.com/logo/tv/hh/h2-latinoamerica-us.png" group-title="CULTURALES ESP", History 2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59038
+
+
+
+
+
+#EXTINF:-1 tvg-id="Animal Planet SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.png" group-title="MEXICO", Animal Planet SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59154
+
+#EXTINF:-1 tvg-logo="" group-title="NATURALEZA",Animal Planet HD
+http://45.190.13.50:8000/play/a03t/index.m3u8
+
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.png" group-title="CULTURALES ESP", ANIMAL PLANET
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59047
+
+#EXTINF:-1 tvg-id="ANIMAL PLANET East" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.png" group-title="ENTERTAIMENT USA", ANIMAL PLANET East
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59888
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="NAT GEO WILD k" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.png" group-title="CULTURALES ESP", NAT GEO WILD k
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59019
+
+#EXTINF:-1 tvg-id="NATGEO WILD k" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.png" group-title="CULTURALES ESP", NATGEO WILD k
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59034
+
+#EXTINF:-1 tvg-id="NatGeo Mx K" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="CULTURALES ESP", NatGeo Mx K
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59035
+
+#EXTINF:-1 tvg-id="NATGEO MUNDO HD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_mundo_us.png" group-title="CULTURALES ESP", NATGEO MUNDO HD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59036
+
+#EXTINF:-1 tvg-logo="" group-title="CULTURA",Nat Geo HD
+http://45.190.13.50:8003/play/a02a/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1101491804858433541/Y4ymYB5E_400x400.png" group-title="HOGAR Y ESTILO", Hola TV
+https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Las Estrellas" tvg-logo="https://www.lyngsat.com/logo/tv/ll/las_estrellas_mx.png" group-title="MEXICO", Las Estrellas
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59123
 
 #EXTINF:-1 tvg-id="CineLatino SD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine_latino.png" group-title="MEXICO", CineLatino SD
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59136
@@ -192,29 +625,8 @@ http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59142
 #EXTINF:-1 tvg-id="Star SD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-channel-us.png" group-title="MEXICO", Star SD
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59143
 
-#EXTINF:-1 tvg-id="HBO Family SD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_lam.png" group-title="MEXICO", HBO Family SD
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59145
 
-#EXTINF:-1 tvg-id="HBO Plus SD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-plus-us.png" group-title="MEXICO", HBO Plus SD
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59146
 
-#EXTINF:-1 tvg-id="HBO SD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_latinoamerica.png" group-title="MEXICO", HBO SD
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59147
-
-#EXTINF:-1 tvg-id="Warner TV SD" tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_tv_us.png" group-title="MEXICO", Warner TV SD
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59151
-
-#EXTINF:-1 tvg-id="A&E SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ae_us.png" group-title="MEXICO", A&E SD
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59152
-
-#EXTINF:-1 tvg-id="ADN40 SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/adn_40_mx.png" group-title="MEXICO", ADN40 SD
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59153
-
-#EXTINF:-1 tvg-id="Animal Planet SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.png" group-title="MEXICO", Animal Planet SD
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59154
-
-#EXTINF:-1 tvg-id="AXN SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_global.png" group-title="MEXICO", AXN SD
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59155
 
 #EXTINF:-1 tvg-id="AzCinema SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/az-cinema-mx.png" group-title="MEXICO", AzCinema SD
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59156
@@ -237,83 +649,27 @@ http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59166
 #EXTINF:-1 tvg-id="De Pelicula SD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/de-pelicula-mx.png" group-title="MEXICO", De Pelicula SD
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59167
 
-#EXTINF:-1 tvg-id="Las Estrellas SD (Baja Calidad)" tvg-logo="https://www.lyngsat.com/logo/tv/ll/las_estrellas_mx.png" group-title="MEXICO", Las Estrellas SD (Baja Calidad)
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59169
 
-#EXTINF:-1 tvg-id="FX Movies" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fxm-us.png" group-title="MEXICO", FX Movies
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59172
-
-#EXTINF:-1 tvg-id="FX SD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx_us.png" group-title="MEXICO", FX SD
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59173
 
 #EXTINF:-1 tvg-id="Gala TV SD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/galavision_east.png" group-title="MEXICO", Gala TV SD
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59174
 
-#EXTINF:-1 tvg-id="Golden SD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golden-mx.png" group-title="MEXICO", Golden SD
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59175
 
-#EXTINF:-1 tvg-id="Golden Edge SD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golden-edge-mx.png" group-title="MEXICO", Golden Edge SD
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59176
-
-#EXTINF:-1 tvg-id="Golden Plus SD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golden-plus-mx.png" group-title="MEXICO", Golden Plus SD
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59177
-
-#EXTINF:-1 tvg-id="History SD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png" group-title="MEXICO", History SD
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59178
-
-#EXTINF:-1 tvg-id="Sony Channel SD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-channel-sur-us.png" group-title="MEXICO", Sony Channel SD
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59183
-
-#EXTINF:-1 tvg-id="SyFy SD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/syfy_us_global.png" group-title="MEXICO", SyFy SD
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59185
 
 #EXTINF:-1 tvg-id="Teleformula SD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tele_formula.png" group-title="MEXICO", Teleformula SD
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59186
 
-#EXTINF:-1 tvg-id="TNT Series SD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-series-us.png" group-title="MEXICO", TNT Series SD
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59187
-
 #EXTINF:-1 tvg-id="TruTV SD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tru_tv_lam.png" group-title="MEXICO", TruTV SD
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59188
 
-#EXTINF:-1 tvg-id="Universal Channel SD" tvg-logo="https://www.lyngsat.com/logo/tv/uu/universal-channel-america-latina-us.png" group-title="MEXICO", Universal Channel SD
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59190
-
 #EXTINF:-1 tvg-id="TELEMAX HERMOSILLO" tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemax-mx.png" group-title="MEXICO", TELEMAX HERMOSILLO
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59194
-
-#EXTINF:-1 tvg-id="MTV HD2" tvg-logo="noimage.png" group-title="MEXICO", MTV HD2
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70858
-
-#EXTINF:-1 tvg-id="HBO 2 HD2" tvg-logo="noimage.png" group-title="MEXICO", HBO 2 HD2
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70856
-
-#EXTINF:-1 tvg-id="HBO Plus HD2" tvg-logo="noimage.png" group-title="MEXICO", HBO Plus HD2
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70855
-
-#EXTINF:-1 tvg-id="HBO Family HD2" tvg-logo="noimage.png" group-title="MEXICO", HBO Family HD2
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70854
-
-#EXTINF:-1 tvg-id="COMEDY CENTRAL HD2" tvg-logo="noimage.png" group-title="MEXICO", COMEDY CENTRAL HD2
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70902
-
-#EXTINF:-1 tvg-id="HBO MUNDI HD2" tvg-logo="noimage.png" group-title="MEXICO", HBO MUNDI HD2
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70897
 
 #EXTINF:-1 tvg-id="ESTRELLAS HD2" tvg-logo="noimage.png" group-title="MEXICO", ESTRELLAS HD2
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70889
 
 #EXTINF:-1 tvg-id="CANAL 5 HD2" tvg-logo="noimage.png" group-title="MEXICO", CANAL 5 HD2
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70888
-
-#EXTINF:-1 tvg-id="MULTIPREMIER HD2" tvg-logo="noimage.png" group-title="MEXICO", MULTIPREMIER HD2
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70879
-
-#EXTINF:-1 tvg-id="STUDIO UNIVERSAL HD2" tvg-logo="noimage.png" group-title="MEXICO", STUDIO UNIVERSAL HD2
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70866
-
-#EXTINF:-1 tvg-id="HBO SIGNATURE HD2" tvg-logo="noimage.png" group-title="MEXICO", HBO SIGNATURE HD2
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70899
 
 #EXTINF:-1 tvg-id="Banda Max K" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bandamax-mx.png" group-title="MUSICA", Banda Max K
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60130
@@ -338,6 +694,7 @@ http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60482
 
 #EXTINF:-1 tvg-id="MTV-U" tvg-logo="http://i.imgur.com/xsT9GBU.jpg" group-title="MUSICA", MTV-U
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60483
+
 #EXTINF:-1 tvg-id="MTV-2" tvg-logo="http://i.imgur.com/Am4a812.png" group-title="MUSICA", MTV-2
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60484
 
@@ -356,15 +713,26 @@ http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60488
 #EXTINF:-1 tvg-id="HTVK" tvg-logo="http://i.imgur.com/msVB7hW.jpg" group-title="MUSICA", HTVK
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60489
 
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",HTV Latino
+http://45.190.13.50:8003/play/a03n/index.m3u8
+
 #EXTINF:-1 tvg-id="CONCERT CHANNELK" tvg-logo="http://i.imgur.com/eebdLTw.png" group-title="MUSICA", CONCERT CHANNELK
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60490
 
 #EXTINF:-1 tvg-id="BETJAMSK" tvg-logo="http://i.imgur.com/nXQA9fF.png" group-title="MUSICA", BETJAMSK
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60491
 
-#EXTINF:-1 tvg-id="Xmen k" tvg-logo="http://i.imgur.com/8SNQpV2.jpg" group-title="24/7", Xmen k
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60464
+#EXTINF:-1 tvg-logo="https://p16-amd-va.tiktokcdn.com/musically-maliva-obj/81bf0ae3b1693ba50252ab4bb9777d0f~c5_720x720.jpeg" group-title="MUSICA", Zapping Music
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?WebM3UCL
 
+#EXTINF:-1 tvg-logo="https://kpoptv.live/wp-content/uploads/2020/06/kpopsexy.png" group-title="MUSICA",SEXY KPOP TV
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",HTV Latino
+http://45.190.13.50:8003/play/a03n/index.m3u8
+
+#EXTINF:-1 tvg-id="114053" tvg-name="TOP Latino TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="MUSICA", TOP Latino TV
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cine clasico" tvg-logo="https://d3bjfa2fjkx310.cloudfront.net/test/e0f26043b2b957087802bc92b03a5558.jpeg" group-title="24/7", Cine clasico
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/86181
@@ -387,118 +755,6 @@ http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59529
 #EXTINF:-1 tvg-id="#EXTINF:-24/7 Alf 24/7" tvg-logo="noimage.png" group-title="24/7", #EXTINF:-24/7 Alf 24/7
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59553
 
-#EXTINF:-1 tvg-id="History 2 HD2" tvg-logo="noimage.png" group-title="CULTURALES ESP", History 2 HD2
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70909
 
-#EXTINF:-1 tvg-id="discovery Español" tvg-logo="noimage.png" group-title="CULTURALES ESP", Discovery Español
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/88054
-
-#EXTINF:-1 tvg-id="Discovery Familia" tvg-logo="https://streamingtvguides.com/img/so/DFAMHD.png" group-title="CULTURALES ESP", Discovery Familia
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/83476
-
-#EXTINF:-1 tvg-id="History En Español" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_en_espanol_us.png" group-title="CULTURALES ESP", History En Español
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/107118
-
-#EXTINF:-1 tvg-id="Discovery en Espanol" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="CULTURALES ESP", Discovery en Espanol
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/107119
-
-#EXTINF:-1 tvg-id="NAT GEO WILD k" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.png" group-title="CULTURALES ESP", NAT GEO WILD k
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59019
-
-#EXTINF:-1 tvg-id="Historia K" tvg-logo="https://www.lyngsat.com/logo/tv/hh/historia_ca.png" group-title="CULTURALES ESP", Historia K
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59020
-
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL k" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="CULTURALES ESP", DISCOVERY CHANNEL k
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59021
-
-#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-logo="https://www.lyngsat.com/logo/tv/cc/comedy-central-deutschland-us-de.png" group-title="CULTURALES ESP", COMEDY CENTRAL
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59033
-
-#EXTINF:-1 tvg-id="NATGEO WILD k" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.png" group-title="CULTURALES ESP", NATGEO WILD k
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59034
-
-#EXTINF:-1 tvg-id="NatGeo Mx K" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="CULTURALES ESP", NatGeo Mx K
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59035
-
-#EXTINF:-1 tvg-id="NATGEO MUNDO HD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_mundo_us.png" group-title="CULTURALES ESP", NATGEO MUNDO HD
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59036
-
-#EXTINF:-1 tvg-id="History" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png" group-title="CULTURALES ESP", History
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59037
-
-#EXTINF:-1 tvg-id="History 2" tvg-logo="https://www.lyngsat.com/logo/tv/hh/h2-latinoamerica-us.png" group-title="CULTURALES ESP", History 2
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59038
-
-#EXTINF:-1 tvg-id="DISCOVERY WORLD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-world-brasil-us-br.png" group-title="CULTURALES ESP", DISCOVERY WORLD
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59039
-
-#EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_turbo_us.png" group-title="CULTURALES ESP", DISCOVERY TURBO
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59040
-
-#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-science-europe-us.png" group-title="CULTURALES ESP", DISCOVERY SCIENCE
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59042
-
-#EXTINF:-1 tvg-id="DISCOVERY ID" tvg-logo="https://www.lyngsat.com/logo/tv/ii/investigation-discovery-us.png" group-title="CULTURALES ESP", DISCOVERY ID
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59043
-
-#EXTINF:-1 tvg-id="DISCOVERY HOME & HEALTH" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-home-and-health-us.png" group-title="CULTURALES ESP", DISCOVERY HOME & HEALTH
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59044
-
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL mx k" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="CULTURALES ESP", DISCOVERY CHANNEL mx k
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59046
-
-#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.png" group-title="CULTURALES ESP", ANIMAL PLANET
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59047
-
-#EXTINF:-1 tvg-id="Discovery Channel HD2" tvg-logo="noimage.png" group-title="CULTURALES ESP", Discovery Channel HD2
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70761
-
-#EXTINF:-1 tvg-id="SMITHSONIAN HD" tvg-logo="https://i.ibb.co/SdPDBMp/smithsonian-channel.jpg" group-title="CULTURALES ESP", SMITHSONIAN HD
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70999
-
-#EXTINF:-1 tvg-id="UNIVERSAL CINEMA FHD" tvg-logo="https://i.ibb.co/pxYNgNH/4ba85485-602b-4eb4-8e64-14f65dfae3c0.jpg" group-title="CANALES HD", UNIVERSAL CINEMA FHD
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68974
-
-#EXTINF:-1 tvg-id="AMC FHD TVHOP2" tvg-logo="https://i.imgur.com/jX6jQFl.png" group-title="CANALES HD", AMC FHD TVHOP2
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68973
-
-#EXTINF:-1 tvg-id="UNIVERSAL COMEDIA FHD" tvg-logo="https://i.ibb.co/nRtQqkK/2cb9c86e-95b6-4059-94da-09a451aaf12a.jpg" group-title="CANALES HD", UNIVERSAL COMEDIA FHD
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68975
-
-#EXTINF:-1 tvg-id="UNIVERSAL CRIME FHD" tvg-logo="https://i.ibb.co/hRPJK6B/465b2563-da99-4bb3-ab97-db910dfb052a.jpg" group-title="CANALES HD", UNIVERSAL CRIME FHD
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68977
-
-#EXTINF:-1 tvg-id="GOLDEN PREMIER FHD TVHOP2" tvg-logo="https://i.ibb.co/pQ8SBP1/GOLDEN-PREMIERE-FHD.png" group-title="CANALES HD", GOLDEN PREMIER FHD TVHOP2
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68978
-
-#EXTINF:-1 tvg-id="HBO FAMILY FHD" tvg-logo="https://i.imgur.com/SBHVRcm.png" group-title="CANALES HD", HBO FAMILY FHD
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68979
-
-#EXTINF:-1 tvg-id="STUDIO UNIVERSAL LATINO TVHOP2" tvg-logo="https://i.ibb.co/6g9TRHS/unnamed.jpg" group-title="CANALES HD", STUDIO UNIVERSAL LATINO TVHOP2
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68981
-
-#EXTINF:-1 tvg-id="SYFY CHANNEL FHD TVHOP2" tvg-logo="https://i.imgur.com/nneWFYF.png" group-title="CANALES HD", SYFY CHANNEL FHD TVHOP2
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68982
-
-#EXTINF:-1 tvg-id="ANIMAL PLANET East" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.png" group-title="ENTERTAIMENT USA", ANIMAL PLANET East
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59888
-
-#EXTINF:-1 tvg-id="E! Entertaiment US." tvg-logo="https://www.lyngsat.com/logo/tv/ee/e_global_us.png" group-title="ENTERTAIMENT USA", E! Entertaiment US.
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59892
-
-#EXTINF:-1 tvg-id="TNT USA" tvg-logo="http://www.atvpanel.com/posters/1544080681526.png" group-title="DEPORTES", TNT USA
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/78509
-
-#EXTINF:-1 tvg-id="HBO Plus R" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-plus-us.png" group-title="CANALES ENCODER  HD", HBO Plus R
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94217
-
-#EXTINF:-1 tvg-id="TNT Series R" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-series-us.png" group-title="CANALES ENCODER  HD", TNT Series R
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94225
-
-#EXTINF:-1 tvg-id="Discovery Science R" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-science-europe-us.png" group-title="CANALES ENCODER  HD", Discovery Science R
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94237
-
-#EXTINF:-1 tvg-id="Discovery Sciencen MX R" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-science-latinoamerica-us.png" group-title="CANALES ENCODER  HD", Discovery Sciencen MX R
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94238
 
 
