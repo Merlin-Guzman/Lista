@@ -275,3 +275,38 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 
 #EXTINF:-1 tvg-logo="https://kpoptv.live/wp-content/uploads/2020/06/kpopsexy.png" group-title="MUSICA",SEXY KPOP TV
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+
+#EXTINF:-1  group-title="Bics Extra", A mas +
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1  group-title="Bics Extra", MVS
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+#EXTINF:-1 group-title="Bics Extra", CANAL 57 USA
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Bics Extra", USA | HBO
+http://177.53.153.21:8001/play/a03b/index.m3u8
+#EXTINF:-1 group-title="Bics Extra", USA | HBO 2
+http://177.53.153.21:8001/play/a03i/index.m3u8
+#EXTINF:-1 group-title="Bics Extra", USA | Retro Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistASTRAL
+******************************* DEPORTES **********************************************
+#EXTINF:-1  group-title="Bics Extra", Fox Sports Premium
+http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="Bics Extra", Claro Sports
+http://190.149.66.90:4000/play/a008/index.m3u8
+#EXTINF:-1  group-title="Bics Extra", Claro Sports 2
+http://45.5.117.182:8000/play/a0e5/index.m3u8
+#EXTINF:-1  group-title="Bics Extra", Fox Sports 3 LatinoAmerica HD 
+http://167.250.222.35:16000/play/a07u/index.m3u8
+#EXTINF:-1  group-title="Bics Extra", ESPN LatinoAmerica HD 
+http://181.209.173.10:9000/play/a069/index.m3u8
+#EXTINF:-1 group-title="TIM TV", NBA TV
+http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/7226/index.m3u8
+******************************* Musica **********************************************
+#EXTINF:-1 group-title="TIM TV", MTV Hits
+http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/153/index.m3u8
+#EXTINF:-1 group-title="TIM TV", MTV Live
+http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/221/index.m3u8
+#EXTINF:-1 group-title="TIM TV", MTV Music
+http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/19192/index.m3u8
+#EXTINF:-1 group-title="TIM TV", MTV Classic
+http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/19148/index.m3u8
